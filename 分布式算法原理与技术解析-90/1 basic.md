@@ -38,7 +38,7 @@
 
 任务并行或任务分布式
 
-<img src="D:\data\Indie Hacker\Indie Hacker\github\eat-rpc\eat-rpc\分布式算法原理与技术解析-90\pic\任务分布式.png" alt="image-20210101193453598" style="zoom:50%;" />
+<img src="pic\任务分布式.png" alt="image-20210101193453598" style="zoom:50%;" />
 
 - 将单个复杂的任务拆分为多个子任务，从而使得多个子任务可以在不同的计算机上并行执行。
 - 在提供了更好的性能、扩展性、可维护性的同时，也带来了设计上的复杂性
