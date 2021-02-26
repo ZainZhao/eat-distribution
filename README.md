@@ -28,3 +28,49 @@
   - [x] URI
   - [x] 响应状态码
   - [x] HTTP的优缺点
+  - [x] HTTP的实体数据
+  - [x] HTTP传输大文件的方法
+  - [x] HTTP连接管理
+  - [x] HTTP的重定向和跳转
+  - [ ] HTTP的Cookie机制
+  - [ ] HTTP的缓存控制
+  - [ ] HTTP的代理服务
+  - [ ] HTTP的缓存代理
+
+
+
+## Kafka
+
+
+
+## Spring
+
+
+
+## Spring boot
+
+
+
+## Spring cloud
+
+
+
+## Dubbo
+
+
+
+
+
+## JVM
+
+
+
+
+
+## Mysql
+
+
+
+
+
+## 并发
