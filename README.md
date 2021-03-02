@@ -39,16 +39,17 @@
   - [x] HTTPS与SSL/TLS
   - [x] 对称加密与非对称加密
   - [x] 数字签名与证书
-  
+
   > skip
-  
+
   - [ ] TLS1.2连接过程解析
   - [ ] TLS1.3特性解析
   - [ ] HTTPS的优化
-  
+  - [ ] HTTPS迁移
+
   > skip end
-  
-  - [x] HTTPS迁移
+
+  - [ ] 
 
 
 
