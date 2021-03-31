@@ -281,7 +281,11 @@ https://gitee.com/moxi159753/LearningNotes/tree/master/JVM
   - [x] 主备的基本原理？
   - [x] binlog的三种格式？
   - [x] 什么是循环复制问题？怎样解决？
-- [ ] 
+- [x] 25 MySQL是怎么保证高可用的？
+  - [x] 什么是主备延迟？
+  - [x] 主备延迟的来源？
+  - [x] 可靠性优先策略?
+  - [x] 可用性优先策略？
 
 
 
